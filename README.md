@@ -7,6 +7,8 @@ Resolução em :
 
 https://www.youtube.com/watch?v=-_ObFKxG30Q
 
+https://github.com/devsuperior/aulao008
+
 
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de
