@@ -1,5 +1,6 @@
 # Demo02_Interfaces
 Interfaces, inversão de controle, injeção de dependência
+// Open Close Principle - a classe pode ser aberta para extensão, porém fechada para alteração.
 
 https://www.devmedia.com.br/inversao-de-controle-x-injecao-de-dependencia/18763
 
