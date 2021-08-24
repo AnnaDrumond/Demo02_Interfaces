@@ -3,6 +3,8 @@ Interfaces, inversão de controle, injeção de dependência
 
 https://www.devmedia.com.br/inversao-de-controle-x-injecao-de-dependencia/18763
 
+youtube.com/watch?v=evhskJG1kvYc
+
 Resolução em :
 
 https://www.youtube.com/watch?v=-_ObFKxG30Q
